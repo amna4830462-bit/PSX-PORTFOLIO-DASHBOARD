@@ -1,0 +1,2 @@
+This is a Streamlit based app to track stock portfolio, risk analysis and predictions.
+#RUN# streamlit run PYTHON PROJECT 3.py
